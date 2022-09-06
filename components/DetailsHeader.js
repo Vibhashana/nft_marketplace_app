@@ -1,4 +1,5 @@
-import { View, Image } from "react-native";
+import { View, Image, StatusBar } from "react-native";
+import { assets } from "../constants";
 import { CircleButton } from "./Button";
 
 const DetailsHeader = ({ data, navigation }) => {

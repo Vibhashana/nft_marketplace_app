@@ -8,8 +8,6 @@ const HomeHeader = ({ onSearch }) => {
       style={{
         backgroundColor: COLORS.primary,
         padding: SIZES.font,
-        borderBottomLeftRadius: SIZES.extraLarge,
-        borderBottomRightRadius: SIZES.extraLarge,
       }}
     >
       <View
